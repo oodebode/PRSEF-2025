@@ -4,7 +4,7 @@ spikeMat = taskData.spkMat;
 trialMat = taskData.trialMat;
 
 %% ASK SHUSH
-% 1. appropriate filter size?
+% appropriate filter size?
 % how to stop error bars from wondering off
 
 %% To-Do
